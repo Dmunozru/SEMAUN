@@ -1,0 +1,48 @@
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: "Arial Black";
+  color: #8fc73f;
+  text-decoration: underline;
+}
+
+p {
+  text-align: justify;
+
+}
+
+
+
+.card-body {
+  text-align: justify;
+
+}
+
+
+
+
+.btn-primary {
+  background-color: #8fc73f;
+  border-color: #8fc73f;
+  text-decoration: underline;
+}
+
+.card-title {
+  text-align: justify;
+  background-color: #8fc73f;
+  border-radius: 5px;
+  color: white; 
+  text-decoration: underline;
+}
+
+.mantenimiento {
+  text-align: center;
+  color: red;
+  border-width: 3px;
+  border-color: red;
+  border-style: solid;
+  
+}
